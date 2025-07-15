@@ -1,1 +1,7 @@
-# groupe12
+# groupe12_03
+
+MITANO MONZOMBO Blanchard 
+
+GENIE ELECTRIQUE ET INFORMATIQUE
+
+CODE : groupe12_03
